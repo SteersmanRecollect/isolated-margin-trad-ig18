@@ -1,4 +1,4 @@
-# 
+# secure isolated-margin trading bot Addon | latency-optimization + risk-management offers the most advanced isolated-margin trading bot, with latency-optimization and
 
 
 
